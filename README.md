@@ -1,1 +1,1 @@
-# smartbrain-node
+# smartbrain-node-heroku
